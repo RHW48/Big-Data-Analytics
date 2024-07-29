@@ -4,7 +4,7 @@ This repository contains projects and code examples for Big Data Analytics. The 
 
 ## Folder Structure
 
-- 'Perbandingan Algoritma Linear Regression dan Decision Tree untuk Klasifikasi Kualitas Wine`: Contains the Wine Quality Prediction project using Streamlit.
+- `Perbandingan Algoritma Linear Regression dan Decision Tree untuk Klasifikasi Kualitas Wine`: Contains the Wine Quality Prediction project using Streamlit.
 - `Spark`: Contains the Titanic Survival Prediction project using Logistic Regression with PySpark.
 
 ## Requirements
