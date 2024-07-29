@@ -21,12 +21,9 @@ This repository contains two implementations for predicting the quality of wine 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/wine-quality-prediction.git
-   cd wine-quality-prediction
-2. Install the required dependencies:
-   ```bash
-    pip install -r requirements.txt
-
+   git clone https://github.com/RHW48/Big-Data-Analytics.git
+   cd Big-Data-Analytics
+   
 ## Usage
 ### Jupyter Notebook
 1. Open the Jupyter Notebook:
